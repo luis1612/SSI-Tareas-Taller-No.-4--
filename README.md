@@ -1,2 +1,6 @@
 # SSI-Tareas-Taller-No.-4--
-Elaborado por  Luis, Andres, Alejandro &amp; Yeison
+Elaborado por  
+Luis Ibarguen 
+Andres Velez 
+ Jhon Alejandro Giraldo 
+ Yeison Stiven Castro
