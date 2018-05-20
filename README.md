@@ -3,5 +3,4 @@
 Elaborado por  
 Luis Ibarguen,  
 Andres Velez,  
-Jhon Alejandro Giraldo, 
-Yeison Stiven Castro.
+Jhon Alejandro Giraldo.
